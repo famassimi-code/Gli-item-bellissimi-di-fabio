@@ -1,7 +1,13 @@
 {
     "id": "gli-item-bellissimi-di-fabio",
     "title": "Gli Item Bellissimi Di Fabio",
-    "version": "1.0.6",
+    "description": "Compendium di item vari creati da Fabio",
+    "version": "1.0.7",
+    "authors": [
+        {
+            "name": "Fabio"
+        }
+    ],
     "compatibility": {
         "minimum": "12",
         "verified": "13"
@@ -10,14 +16,13 @@
         {
             "name": "item-vari",
             "label": "Item Vari",
-            "path": "packs/item-vari",
+            "path": "packs/item-vari.db",
             "type": "Item",
+            "system": "dnd5e",
             "ownership": {
                 "PLAYER": "OBSERVER",
                 "ASSISTANT": "OWNER"
-            },
-            "system": "dnd5e",
-            "flags": {}
+            }
         }
     ],
     "links": {
