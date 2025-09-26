@@ -2,7 +2,7 @@
     "id": "gli-item-bellissimi-di-fabio",
     "title": "Gli Item Bellissimi Di Fabio",
     "description": "Compendium di item vari creati da Fabio",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "authors": [
         {
             "name": "Fabio"
@@ -26,8 +26,8 @@
         }
     ],
     "links": {
-        "manifest": "https://raw.githubusercontent.com/famassimi-code/Gli-item-di-fabio/main/module.json",
-        "download": "https://github.com/famassimi-code/Gli-item-di-fabio/archive/refs/heads/main.zip",
-        "url": "https://github.com/famassimi-code/Gli-item-di-fabio"
+        "manifest": "https://raw.githubusercontent.com/famassimi-code/Gli-item-bellissimi-di-fabio/main/module.json",
+        "download": "https://github.com/famassimi-code/Gli-item-bellissimi-di-fabio/archive/refs/heads/main.zip",
+        "url": "https://github.com/famassimi-code/Gli-item-bellissimi-di-fabio"
     }
 }
